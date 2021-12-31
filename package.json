@@ -1,0 +1,15 @@
+{
+  "name": "docker-node",
+  "version": "1.0.0",
+  "description": "A simple app that uses docker for setting up a node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Yeabsira Ashenafi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
